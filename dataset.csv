@@ -1,0 +1,925 @@
+Province,Occupation,Gender,Employment
+Canada,0 Legislative and senior management occupations,Total,267690
+Canada,0 Legislative and senior management occupations,Men,186230
+Canada,0 Legislative and senior management occupations,Women,81460
+Canada,"1 Business, finance and administration occupations",Total,3557055
+Canada,"1 Business, finance and administration occupations",Men,1135350
+Canada,"1 Business, finance and administration occupations",Women,2421705
+Canada,2 Natural and applied sciences and related occupations,Total,1666685
+Canada,2 Natural and applied sciences and related occupations,Men,1257790
+Canada,2 Natural and applied sciences and related occupations,Women,408895
+Canada,21301 Mechanical engineers,Total,58690
+Canada,21301 Mechanical engineers,Men,52355
+Canada,21301 Mechanical engineers,Women,6335
+Canada,21310 Electrical and electronics engineers,Total,47890
+Canada,21310 Electrical and electronics engineers,Men,41985
+Canada,21310 Electrical and electronics engineers,Women,5905
+Canada,21311 Computer engineers (except software engineers and designers),Total,26730
+Canada,21311 Computer engineers (except software engineers and designers),Men,23415
+Canada,21311 Computer engineers (except software engineers and designers),Women,3315
+Canada,3 Health occupations,Total,1601710
+Canada,3 Health occupations,Men,315180
+Canada,3 Health occupations,Women,1286535
+Canada,31301 Registered nurses and registered psychiatric nurses,Total,346095
+Canada,31301 Registered nurses and registered psychiatric nurses,Men,32870
+Canada,31301 Registered nurses and registered psychiatric nurses,Women,313225
+Canada,31302 Nurse practitioners,Total,6785
+Canada,31302 Nurse practitioners,Men,570
+Canada,31302 Nurse practitioners,Women,6220
+Canada,32101 Licensed practical nurses,Total,78340
+Canada,32101 Licensed practical nurses,Men,8090
+Canada,32101 Licensed practical nurses,Women,70250
+Canada,"33102 Nurse aides, orderlies and patient service associates",Total,380320
+Canada,"33102 Nurse aides, orderlies and patient service associates",Men,53690
+Canada,"33102 Nurse aides, orderlies and patient service associates",Women,326630
+Canada,"4 Occupations in education, law and social, community and government services",Total,2532170
+Canada,"4 Occupations in education, law and social, community and government services",Men,816725
+Canada,"4 Occupations in education, law and social, community and government services",Women,1715450
+Canada,40040 Commissioned police officers and related occupations in public protection services,Total,2240
+Canada,40040 Commissioned police officers and related occupations in public protection services,Men,1610
+Canada,40040 Commissioned police officers and related occupations in public protection services,Women,640
+Canada,4131 Police investigators and probation officers,Total,9100
+Canada,4131 Police investigators and probation officers,Men,3900
+Canada,4131 Police investigators and probation officers,Women,5200
+Canada,41310 Police investigators and other investigative occupations,Total,3670
+Canada,41310 Police investigators and other investigative occupations,Men,2570
+Canada,41310 Police investigators and other investigative occupations,Women,1100
+Canada,42100 Police officers (except commissioned),Total,75200
+Canada,42100 Police officers (except commissioned),Men,57145
+Canada,42100 Police officers (except commissioned),Women,18050
+Canada,42101 Firefighters,Total,34795
+Canada,42101 Firefighters,Men,32810
+Canada,42101 Firefighters,Women,1985
+Canada,"5 Occupations in art, culture, recreation and sport",Total,697260
+Canada,"5 Occupations in art, culture, recreation and sport",Men,319920
+Canada,"5 Occupations in art, culture, recreation and sport",Women,377340
+Canada,6 Sales and service occupations,Total,5226370
+Canada,6 Sales and service occupations,Men,2316525
+Canada,6 Sales and service occupations,Women,2909845
+Canada,"7 Trades, transport and equipment operators and related occupations",Total,3526800
+Canada,"7 Trades, transport and equipment operators and related occupations",Men,3204945
+Canada,"7 Trades, transport and equipment operators and related occupations",Women,321855
+Canada,"8 Natural resources, agriculture and related production occupations",Total,617425
+Canada,"8 Natural resources, agriculture and related production occupations",Men,472910
+Canada,"8 Natural resources, agriculture and related production occupations",Women,144515
+Canada,9 Occupations in manufacturing and utilities,Total,937355
+Canada,9 Occupations in manufacturing and utilities,Men,664465
+Canada,9 Occupations in manufacturing and utilities,Women,272895
+Newfoundland and Labrador,0 Legislative and senior management occupations,Total,2180
+Newfoundland and Labrador,0 Legislative and senior management occupations,Men,1270
+Newfoundland and Labrador,0 Legislative and senior management occupations,Women,915
+Newfoundland and Labrador,"1 Business, finance and administration occupations",Total,35440
+Newfoundland and Labrador,"1 Business, finance and administration occupations",Men,9400
+Newfoundland and Labrador,"1 Business, finance and administration occupations",Women,26045
+Newfoundland and Labrador,2 Natural and applied sciences and related occupations,Total,16165
+Newfoundland and Labrador,2 Natural and applied sciences and related occupations,Men,12580
+Newfoundland and Labrador,2 Natural and applied sciences and related occupations,Women,3585
+Newfoundland and Labrador,21301 Mechanical engineers,Total,565
+Newfoundland and Labrador,21301 Mechanical engineers,Men,495
+Newfoundland and Labrador,21301 Mechanical engineers,Women,70
+Newfoundland and Labrador,21310 Electrical and electronics engineers,Total,455
+Newfoundland and Labrador,21310 Electrical and electronics engineers,Men,420
+Newfoundland and Labrador,21310 Electrical and electronics engineers,Women,35
+Newfoundland and Labrador,21311 Computer engineers (except software engineers and designers),Total,95
+Newfoundland and Labrador,21311 Computer engineers (except software engineers and designers),Men,85
+Newfoundland and Labrador,21311 Computer engineers (except software engineers and designers),Women,10
+Newfoundland and Labrador,3 Health occupations,Total,23320
+Newfoundland and Labrador,3 Health occupations,Men,4080
+Newfoundland and Labrador,3 Health occupations,Women,19235
+Newfoundland and Labrador,31301 Registered nurses and registered psychiatric nurses,Total,6085
+Newfoundland and Labrador,31301 Registered nurses and registered psychiatric nurses,Men,455
+Newfoundland and Labrador,31301 Registered nurses and registered psychiatric nurses,Women,5635
+Newfoundland and Labrador,31302 Nurse practitioners,Total,160
+Newfoundland and Labrador,31302 Nurse practitioners,Men,15
+Newfoundland and Labrador,31302 Nurse practitioners,Women,145
+Newfoundland and Labrador,32101 Licensed practical nurses,Total,1835
+Newfoundland and Labrador,32101 Licensed practical nurses,Men,180
+Newfoundland and Labrador,32101 Licensed practical nurses,Women,1660
+Newfoundland and Labrador,"33102 Nurse aides, orderlies and patient service associates",Total,5560
+Newfoundland and Labrador,"33102 Nurse aides, orderlies and patient service associates",Men,655
+Newfoundland and Labrador,"33102 Nurse aides, orderlies and patient service associates",Women,4905
+Newfoundland and Labrador,"4 Occupations in education, law and social, community and government services",Total,37370
+Newfoundland and Labrador,"4 Occupations in education, law and social, community and government services",Men,10460
+Newfoundland and Labrador,"4 Occupations in education, law and social, community and government services",Women,26910
+Newfoundland and Labrador,40040 Commissioned police officers and related occupations in public protection services,Total,0
+Newfoundland and Labrador,40040 Commissioned police officers and related occupations in public protection services,Men,0
+Newfoundland and Labrador,40040 Commissioned police officers and related occupations in public protection services,Women,0
+Newfoundland and Labrador,4131 Police investigators and probation officers,Total,70
+Newfoundland and Labrador,4131 Police investigators and probation officers,Men,25
+Newfoundland and Labrador,4131 Police investigators and probation officers,Women,45
+Newfoundland and Labrador,41310 Police investigators and other investigative occupations,Total,10
+Newfoundland and Labrador,41310 Police investigators and other investigative occupations,Men,0
+Newfoundland and Labrador,41310 Police investigators and other investigative occupations,Women,10
+Newfoundland and Labrador,42100 Police officers (except commissioned),Total,935
+Newfoundland and Labrador,42100 Police officers (except commissioned),Men,695
+Newfoundland and Labrador,42100 Police officers (except commissioned),Women,240
+Newfoundland and Labrador,42101 Firefighters,Total,385
+Newfoundland and Labrador,42101 Firefighters,Men,360
+Newfoundland and Labrador,42101 Firefighters,Women,20
+Newfoundland and Labrador,"5 Occupations in art, culture, recreation and sport",Total,5945
+Newfoundland and Labrador,"5 Occupations in art, culture, recreation and sport",Men,2620
+Newfoundland and Labrador,"5 Occupations in art, culture, recreation and sport",Women,3320
+Newfoundland and Labrador,6 Sales and service occupations,Total,68155
+Newfoundland and Labrador,6 Sales and service occupations,Men,27230
+Newfoundland and Labrador,6 Sales and service occupations,Women,40925
+Newfoundland and Labrador,"7 Trades, transport and equipment operators and related occupations",Total,54575
+Newfoundland and Labrador,"7 Trades, transport and equipment operators and related occupations",Men,50230
+Newfoundland and Labrador,"7 Trades, transport and equipment operators and related occupations",Women,4345
+Newfoundland and Labrador,"8 Natural resources, agriculture and related production occupations",Total,13660
+Newfoundland and Labrador,"8 Natural resources, agriculture and related production occupations",Men,10905
+Newfoundland and Labrador,"8 Natural resources, agriculture and related production occupations",Women,2750
+Newfoundland and Labrador,9 Occupations in manufacturing and utilities,Total,11155
+Newfoundland and Labrador,9 Occupations in manufacturing and utilities,Men,7680
+Newfoundland and Labrador,9 Occupations in manufacturing and utilities,Women,3475
+Prince Edward Island,0 Legislative and senior management occupations,Total,875
+Prince Edward Island,0 Legislative and senior management occupations,Men,540
+Prince Edward Island,0 Legislative and senior management occupations,Women,335
+Prince Edward Island,"1 Business, finance and administration occupations",Total,13330
+Prince Edward Island,"1 Business, finance and administration occupations",Men,3800
+Prince Edward Island,"1 Business, finance and administration occupations",Women,9525
+Prince Edward Island,2 Natural and applied sciences and related occupations,Total,5255
+Prince Edward Island,2 Natural and applied sciences and related occupations,Men,3855
+Prince Edward Island,2 Natural and applied sciences and related occupations,Women,1405
+Prince Edward Island,21301 Mechanical engineers,Total,105
+Prince Edward Island,21301 Mechanical engineers,Men,90
+Prince Edward Island,21301 Mechanical engineers,Women,15
+Prince Edward Island,21310 Electrical and electronics engineers,Total,60
+Prince Edward Island,21310 Electrical and electronics engineers,Men,60
+Prince Edward Island,21310 Electrical and electronics engineers,Women,0
+Prince Edward Island,21311 Computer engineers (except software engineers and designers),Total,55
+Prince Edward Island,21311 Computer engineers (except software engineers and designers),Men,50
+Prince Edward Island,21311 Computer engineers (except software engineers and designers),Women,0
+Prince Edward Island,3 Health occupations,Total,7265
+Prince Edward Island,3 Health occupations,Men,1080
+Prince Edward Island,3 Health occupations,Women,6185
+Prince Edward Island,31301 Registered nurses and registered psychiatric nurses,Total,1825
+Prince Edward Island,31301 Registered nurses and registered psychiatric nurses,Men,120
+Prince Edward Island,31301 Registered nurses and registered psychiatric nurses,Women,1705
+Prince Edward Island,31302 Nurse practitioners,Total,45
+Prince Edward Island,31302 Nurse practitioners,Men,0
+Prince Edward Island,31302 Nurse practitioners,Women,45
+Prince Edward Island,32101 Licensed practical nurses,Total,465
+Prince Edward Island,32101 Licensed practical nurses,Men,20
+Prince Edward Island,32101 Licensed practical nurses,Women,440
+Prince Edward Island,"33102 Nurse aides, orderlies and patient service associates",Total,1850
+Prince Edward Island,"33102 Nurse aides, orderlies and patient service associates",Men,215
+Prince Edward Island,"33102 Nurse aides, orderlies and patient service associates",Women,1635
+Prince Edward Island,"4 Occupations in education, law and social, community and government services",Total,10970
+Prince Edward Island,"4 Occupations in education, law and social, community and government services",Men,3245
+Prince Edward Island,"4 Occupations in education, law and social, community and government services",Women,7725
+Prince Edward Island,40040 Commissioned police officers and related occupations in public protection services,Total,0
+Prince Edward Island,40040 Commissioned police officers and related occupations in public protection services,Men,0
+Prince Edward Island,40040 Commissioned police officers and related occupations in public protection services,Women,0
+Prince Edward Island,4131 Police investigators and probation officers,Total,30
+Prince Edward Island,4131 Police investigators and probation officers,Men,20
+Prince Edward Island,4131 Police investigators and probation officers,Women,15
+Prince Edward Island,41310 Police investigators and other investigative occupations,Total,15
+Prince Edward Island,41310 Police investigators and other investigative occupations,Men,15
+Prince Edward Island,41310 Police investigators and other investigative occupations,Women,0
+Prince Edward Island,42100 Police officers (except commissioned),Total,230
+Prince Edward Island,42100 Police officers (except commissioned),Men,190
+Prince Edward Island,42100 Police officers (except commissioned),Women,35
+Prince Edward Island,42101 Firefighters,Total,10
+Prince Edward Island,42101 Firefighters,Men,10
+Prince Edward Island,42101 Firefighters,Women,0
+Prince Edward Island,"5 Occupations in art, culture, recreation and sport",Total,2270
+Prince Edward Island,"5 Occupations in art, culture, recreation and sport",Men,1040
+Prince Edward Island,"5 Occupations in art, culture, recreation and sport",Women,1225
+Prince Edward Island,6 Sales and service occupations,Total,22405
+Prince Edward Island,6 Sales and service occupations,Men,9080
+Prince Edward Island,6 Sales and service occupations,Women,13325
+Prince Edward Island,"7 Trades, transport and equipment operators and related occupations",Total,15570
+Prince Edward Island,"7 Trades, transport and equipment operators and related occupations",Men,14380
+Prince Edward Island,"7 Trades, transport and equipment operators and related occupations",Women,1185
+Prince Edward Island,"8 Natural resources, agriculture and related production occupations",Total,7685
+Prince Edward Island,"8 Natural resources, agriculture and related production occupations",Men,6040
+Prince Edward Island,"8 Natural resources, agriculture and related production occupations",Women,1645
+Prince Edward Island,9 Occupations in manufacturing and utilities,Total,4670
+Prince Edward Island,9 Occupations in manufacturing and utilities,Men,3045
+Prince Edward Island,9 Occupations in manufacturing and utilities,Women,1620
+Nova Scotia,0 Legislative and senior management occupations,Total,5380
+Nova Scotia,0 Legislative and senior management occupations,Men,3330
+Nova Scotia,0 Legislative and senior management occupations,Women,2045
+Nova Scotia,"1 Business, finance and administration occupations",Total,79305
+Nova Scotia,"1 Business, finance and administration occupations",Men,23020
+Nova Scotia,"1 Business, finance and administration occupations",Women,56290
+Nova Scotia,2 Natural and applied sciences and related occupations,Total,34275
+Nova Scotia,2 Natural and applied sciences and related occupations,Men,26140
+Nova Scotia,2 Natural and applied sciences and related occupations,Women,8130
+Nova Scotia,21301 Mechanical engineers,Total,870
+Nova Scotia,21301 Mechanical engineers,Men,780
+Nova Scotia,21301 Mechanical engineers,Women,90
+Nova Scotia,21310 Electrical and electronics engineers,Total,960
+Nova Scotia,21310 Electrical and electronics engineers,Men,840
+Nova Scotia,21310 Electrical and electronics engineers,Women,115
+Nova Scotia,21311 Computer engineers (except software engineers and designers),Total,425
+Nova Scotia,21311 Computer engineers (except software engineers and designers),Men,375
+Nova Scotia,21311 Computer engineers (except software engineers and designers),Women,50
+Nova Scotia,3 Health occupations,Total,48825
+Nova Scotia,3 Health occupations,Men,8345
+Nova Scotia,3 Health occupations,Women,40480
+Nova Scotia,31301 Registered nurses and registered psychiatric nurses,Total,11245
+Nova Scotia,31301 Registered nurses and registered psychiatric nurses,Men,880
+Nova Scotia,31301 Registered nurses and registered psychiatric nurses,Women,10360
+Nova Scotia,31302 Nurse practitioners,Total,235
+Nova Scotia,31302 Nurse practitioners,Men,15
+Nova Scotia,31302 Nurse practitioners,Women,220
+Nova Scotia,32101 Licensed practical nurses,Total,3075
+Nova Scotia,32101 Licensed practical nurses,Men,170
+Nova Scotia,32101 Licensed practical nurses,Women,2905
+Nova Scotia,"33102 Nurse aides, orderlies and patient service associates",Total,12110
+Nova Scotia,"33102 Nurse aides, orderlies and patient service associates",Men,1465
+Nova Scotia,"33102 Nurse aides, orderlies and patient service associates",Women,10650
+Nova Scotia,"4 Occupations in education, law and social, community and government services",Total,73205
+Nova Scotia,"4 Occupations in education, law and social, community and government services",Men,26255
+Nova Scotia,"4 Occupations in education, law and social, community and government services",Women,46955
+Nova Scotia,40040 Commissioned police officers and related occupations in public protection services,Total,45
+Nova Scotia,40040 Commissioned police officers and related occupations in public protection services,Men,30
+Nova Scotia,40040 Commissioned police officers and related occupations in public protection services,Women,15
+Nova Scotia,4131 Police investigators and probation officers,Total,205
+Nova Scotia,4131 Police investigators and probation officers,Men,80
+Nova Scotia,4131 Police investigators and probation officers,Women,120
+Nova Scotia,41310 Police investigators and other investigative occupations,Total,50
+Nova Scotia,41310 Police investigators and other investigative occupations,Men,35
+Nova Scotia,41310 Police investigators and other investigative occupations,Women,10
+Nova Scotia,42100 Police officers (except commissioned),Total,2065
+Nova Scotia,42100 Police officers (except commissioned),Men,1635
+Nova Scotia,42100 Police officers (except commissioned),Women,425
+Nova Scotia,42101 Firefighters,Total,860
+Nova Scotia,42101 Firefighters,Men,825
+Nova Scotia,42101 Firefighters,Women,40
+Nova Scotia,"5 Occupations in art, culture, recreation and sport",Total,15920
+Nova Scotia,"5 Occupations in art, culture, recreation and sport",Men,6985
+Nova Scotia,"5 Occupations in art, culture, recreation and sport",Women,8935
+Nova Scotia,6 Sales and service occupations,Total,141360
+Nova Scotia,6 Sales and service occupations,Men,60170
+Nova Scotia,6 Sales and service occupations,Women,81190
+Nova Scotia,"7 Trades, transport and equipment operators and related occupations",Total,89775
+Nova Scotia,"7 Trades, transport and equipment operators and related occupations",Men,82710
+Nova Scotia,"7 Trades, transport and equipment operators and related occupations",Women,7065
+Nova Scotia,"8 Natural resources, agriculture and related production occupations",Total,20710
+Nova Scotia,"8 Natural resources, agriculture and related production occupations",Men,17075
+Nova Scotia,"8 Natural resources, agriculture and related production occupations",Women,3640
+Nova Scotia,9 Occupations in manufacturing and utilities,Total,21655
+Nova Scotia,9 Occupations in manufacturing and utilities,Men,16050
+Nova Scotia,9 Occupations in manufacturing and utilities,Women,5605
+New Brunswick,0 Legislative and senior management occupations,Total,3810
+New Brunswick,0 Legislative and senior management occupations,Men,2465
+New Brunswick,0 Legislative and senior management occupations,Women,1340
+New Brunswick,"1 Business, finance and administration occupations",Total,63420
+New Brunswick,"1 Business, finance and administration occupations",Men,18285
+New Brunswick,"1 Business, finance and administration occupations",Women,45135
+New Brunswick,2 Natural and applied sciences and related occupations,Total,25575
+New Brunswick,2 Natural and applied sciences and related occupations,Men,19945
+New Brunswick,2 Natural and applied sciences and related occupations,Women,5635
+New Brunswick,21301 Mechanical engineers,Total,715
+New Brunswick,21301 Mechanical engineers,Men,680
+New Brunswick,21301 Mechanical engineers,Women,30
+New Brunswick,21310 Electrical and electronics engineers,Total,610
+New Brunswick,21310 Electrical and electronics engineers,Men,535
+New Brunswick,21310 Electrical and electronics engineers,Women,75
+New Brunswick,21311 Computer engineers (except software engineers and designers),Total,265
+New Brunswick,21311 Computer engineers (except software engineers and designers),Men,230
+New Brunswick,21311 Computer engineers (except software engineers and designers),Women,30
+New Brunswick,3 Health occupations,Total,37225
+New Brunswick,3 Health occupations,Men,5955
+New Brunswick,3 Health occupations,Women,31265
+New Brunswick,31301 Registered nurses and registered psychiatric nurses,Total,8320
+New Brunswick,31301 Registered nurses and registered psychiatric nurses,Men,500
+New Brunswick,31301 Registered nurses and registered psychiatric nurses,Women,7820
+New Brunswick,31302 Nurse practitioners,Total,180
+New Brunswick,31302 Nurse practitioners,Men,15
+New Brunswick,31302 Nurse practitioners,Women,160
+New Brunswick,32101 Licensed practical nurses,Total,2905
+New Brunswick,32101 Licensed practical nurses,Men,270
+New Brunswick,32101 Licensed practical nurses,Women,2630
+New Brunswick,"33102 Nurse aides, orderlies and patient service associates",Total,9880
+New Brunswick,"33102 Nurse aides, orderlies and patient service associates",Men,1275
+New Brunswick,"33102 Nurse aides, orderlies and patient service associates",Women,8600
+New Brunswick,"4 Occupations in education, law and social, community and government services",Total,55630
+New Brunswick,"4 Occupations in education, law and social, community and government services",Men,19220
+New Brunswick,"4 Occupations in education, law and social, community and government services",Women,36410
+New Brunswick,40040 Commissioned police officers and related occupations in public protection services,Total,55
+New Brunswick,40040 Commissioned police officers and related occupations in public protection services,Men,35
+New Brunswick,40040 Commissioned police officers and related occupations in public protection services,Women,20
+New Brunswick,4131 Police investigators and probation officers,Total,235
+New Brunswick,4131 Police investigators and probation officers,Men,75
+New Brunswick,4131 Police investigators and probation officers,Women,155
+New Brunswick,41310 Police investigators and other investigative occupations,Total,45
+New Brunswick,41310 Police investigators and other investigative occupations,Men,35
+New Brunswick,41310 Police investigators and other investigative occupations,Women,10
+New Brunswick,42100 Police officers (except commissioned),Total,1515
+New Brunswick,42100 Police officers (except commissioned),Men,1205
+New Brunswick,42100 Police officers (except commissioned),Women,310
+New Brunswick,42101 Firefighters,Total,695
+New Brunswick,42101 Firefighters,Men,675
+New Brunswick,42101 Firefighters,Women,15
+New Brunswick,"5 Occupations in art, culture, recreation and sport",Total,9150
+New Brunswick,"5 Occupations in art, culture, recreation and sport",Men,4145
+New Brunswick,"5 Occupations in art, culture, recreation and sport",Women,5010
+New Brunswick,6 Sales and service occupations,Total,114365
+New Brunswick,6 Sales and service occupations,Men,48225
+New Brunswick,6 Sales and service occupations,Women,66140
+New Brunswick,"7 Trades, transport and equipment operators and related occupations",Total,75675
+New Brunswick,"7 Trades, transport and equipment operators and related occupations",Men,70425
+New Brunswick,"7 Trades, transport and equipment operators and related occupations",Women,5255
+New Brunswick,"8 Natural resources, agriculture and related production occupations",Total,16735
+New Brunswick,"8 Natural resources, agriculture and related production occupations",Men,13740
+New Brunswick,"8 Natural resources, agriculture and related production occupations",Women,2990
+New Brunswick,9 Occupations in manufacturing and utilities,Total,21680
+New Brunswick,9 Occupations in manufacturing and utilities,Men,15775
+New Brunswick,9 Occupations in manufacturing and utilities,Women,5900
+Quebec,0 Legislative and senior management occupations,Total,83500
+Quebec,0 Legislative and senior management occupations,Men,60115
+Quebec,0 Legislative and senior management occupations,Women,23385
+Quebec,"1 Business, finance and administration occupations",Total,832790
+Quebec,"1 Business, finance and administration occupations",Men,273850
+Quebec,"1 Business, finance and administration occupations",Women,558940
+Quebec,2 Natural and applied sciences and related occupations,Total,376995
+Quebec,2 Natural and applied sciences and related occupations,Men,284830
+Quebec,2 Natural and applied sciences and related occupations,Women,92160
+Quebec,21301 Mechanical engineers,Total,13575
+Quebec,21301 Mechanical engineers,Men,12170
+Quebec,21301 Mechanical engineers,Women,1405
+Quebec,21310 Electrical and electronics engineers,Total,9365
+Quebec,21310 Electrical and electronics engineers,Men,8365
+Quebec,21310 Electrical and electronics engineers,Women,1000
+Quebec,21311 Computer engineers (except software engineers and designers),Total,6230
+Quebec,21311 Computer engineers (except software engineers and designers),Men,5475
+Quebec,21311 Computer engineers (except software engineers and designers),Women,755
+Quebec,3 Health occupations,Total,382265
+Quebec,3 Health occupations,Men,74415
+Quebec,3 Health occupations,Women,307850
+Quebec,31301 Registered nurses and registered psychiatric nurses,Total,75280
+Quebec,31301 Registered nurses and registered psychiatric nurses,Men,8575
+Quebec,31301 Registered nurses and registered psychiatric nurses,Women,66700
+Quebec,31302 Nurse practitioners,Total,775
+Quebec,31302 Nurse practitioners,Men,55
+Quebec,31302 Nurse practitioners,Women,720
+Quebec,32101 Licensed practical nurses,Total,22355
+Quebec,32101 Licensed practical nurses,Men,2460
+Quebec,32101 Licensed practical nurses,Women,19895
+Quebec,"33102 Nurse aides, orderlies and patient service associates",Total,98735
+Quebec,"33102 Nurse aides, orderlies and patient service associates",Men,17045
+Quebec,"33102 Nurse aides, orderlies and patient service associates",Women,81690
+Quebec,"4 Occupations in education, law and social, community and government services",Total,601675
+Quebec,"4 Occupations in education, law and social, community and government services",Men,179715
+Quebec,"4 Occupations in education, law and social, community and government services",Women,421960
+Quebec,40040 Commissioned police officers and related occupations in public protection services,Total,1030
+Quebec,40040 Commissioned police officers and related occupations in public protection services,Men,790
+Quebec,40040 Commissioned police officers and related occupations in public protection services,Women,240
+Quebec,4131 Police investigators and probation officers,Total,1465
+Quebec,4131 Police investigators and probation officers,Men,465
+Quebec,4131 Police investigators and probation officers,Women,1000
+Quebec,41310 Police investigators and other investigative occupations,Total,525
+Quebec,41310 Police investigators and other investigative occupations,Men,320
+Quebec,41310 Police investigators and other investigative occupations,Women,210
+Quebec,42100 Police officers (except commissioned),Total,16805
+Quebec,42100 Police officers (except commissioned),Men,12105
+Quebec,42100 Police officers (except commissioned),Women,4700
+Quebec,42101 Firefighters,Total,6795
+Quebec,42101 Firefighters,Men,6485
+Quebec,42101 Firefighters,Women,310
+Quebec,"5 Occupations in art, culture, recreation and sport",Total,173015
+Quebec,"5 Occupations in art, culture, recreation and sport",Men,85080
+Quebec,"5 Occupations in art, culture, recreation and sport",Women,87935
+Quebec,6 Sales and service occupations,Total,1207455
+Quebec,6 Sales and service occupations,Men,563310
+Quebec,6 Sales and service occupations,Women,644140
+Quebec,"7 Trades, transport and equipment operators and related occupations",Total,762630
+Quebec,"7 Trades, transport and equipment operators and related occupations",Men,700360
+Quebec,"7 Trades, transport and equipment operators and related occupations",Women,62270
+Quebec,"8 Natural resources, agriculture and related production occupations",Total,99600
+Quebec,"8 Natural resources, agriculture and related production occupations",Men,79010
+Quebec,"8 Natural resources, agriculture and related production occupations",Women,20590
+Quebec,9 Occupations in manufacturing and utilities,Total,227185
+Quebec,9 Occupations in manufacturing and utilities,Men,163635
+Quebec,9 Occupations in manufacturing and utilities,Women,63550
+Ontario,0 Legislative and senior management occupations,Total,99875
+Ontario,0 Legislative and senior management occupations,Men,69175
+Ontario,0 Legislative and senior management occupations,Women,30700
+Ontario,"1 Business, finance and administration occupations",Total,1428300
+Ontario,"1 Business, finance and administration occupations",Men,479380
+Ontario,"1 Business, finance and administration occupations",Women,948920
+Ontario,2 Natural and applied sciences and related occupations,Total,718405
+Ontario,2 Natural and applied sciences and related occupations,Men,537175
+Ontario,2 Natural and applied sciences and related occupations,Women,181235
+Ontario,21301 Mechanical engineers,Total,25235
+Ontario,21301 Mechanical engineers,Men,22555
+Ontario,21301 Mechanical engineers,Women,2675
+Ontario,21310 Electrical and electronics engineers,Total,20650
+Ontario,21310 Electrical and electronics engineers,Men,17980
+Ontario,21310 Electrical and electronics engineers,Women,2665
+Ontario,21311 Computer engineers (except software engineers and designers),Total,14235
+Ontario,21311 Computer engineers (except software engineers and designers),Men,12425
+Ontario,21311 Computer engineers (except software engineers and designers),Women,1805
+Ontario,3 Health occupations,Total,578200
+Ontario,3 Health occupations,Men,115790
+Ontario,3 Health occupations,Women,462405
+Ontario,31301 Registered nurses and registered psychiatric nurses,Total,123505
+Ontario,31301 Registered nurses and registered psychiatric nurses,Men,11215
+Ontario,31301 Registered nurses and registered psychiatric nurses,Women,112295
+Ontario,31302 Nurse practitioners,Total,3630
+Ontario,31302 Nurse practitioners,Men,285
+Ontario,31302 Nurse practitioners,Women,3340
+Ontario,32101 Licensed practical nurses,Total,24200
+Ontario,32101 Licensed practical nurses,Men,2660
+Ontario,32101 Licensed practical nurses,Women,21540
+Ontario,"33102 Nurse aides, orderlies and patient service associates",Total,135320
+Ontario,"33102 Nurse aides, orderlies and patient service associates",Men,16110
+Ontario,"33102 Nurse aides, orderlies and patient service associates",Women,119210
+Ontario,"4 Occupations in education, law and social, community and government services",Total,957480
+Ontario,"4 Occupations in education, law and social, community and government services",Men,316155
+Ontario,"4 Occupations in education, law and social, community and government services",Women,641320
+Ontario,40040 Commissioned police officers and related occupations in public protection services,Total,710
+Ontario,40040 Commissioned police officers and related occupations in public protection services,Men,495
+Ontario,40040 Commissioned police officers and related occupations in public protection services,Women,215
+Ontario,4131 Police investigators and probation officers,Total,3590
+Ontario,4131 Police investigators and probation officers,Men,1740
+Ontario,4131 Police investigators and probation officers,Women,1850
+Ontario,41310 Police investigators and other investigative occupations,Total,1835
+Ontario,41310 Police investigators and other investigative occupations,Men,1345
+Ontario,41310 Police investigators and other investigative occupations,Women,495
+Ontario,42100 Police officers (except commissioned),Total,27175
+Ontario,42100 Police officers (except commissioned),Men,20905
+Ontario,42100 Police officers (except commissioned),Women,6270
+Ontario,42101 Firefighters,Total,13360
+Ontario,42101 Firefighters,Men,12485
+Ontario,42101 Firefighters,Women,870
+Ontario,"5 Occupations in art, culture, recreation and sport",Total,272540
+Ontario,"5 Occupations in art, culture, recreation and sport",Men,123405
+Ontario,"5 Occupations in art, culture, recreation and sport",Women,149130
+Ontario,6 Sales and service occupations,Total,1978335
+Ontario,6 Sales and service occupations,Men,877765
+Ontario,6 Sales and service occupations,Women,1100565
+Ontario,"7 Trades, transport and equipment operators and related occupations",Total,1278455
+Ontario,"7 Trades, transport and equipment operators and related occupations",Men,1153435
+Ontario,"7 Trades, transport and equipment operators and related occupations",Women,125020
+Ontario,"8 Natural resources, agriculture and related production occupations",Total,168470
+Ontario,"8 Natural resources, agriculture and related production occupations",Men,126660
+Ontario,"8 Natural resources, agriculture and related production occupations",Women,41815
+Ontario,9 Occupations in manufacturing and utilities,Total,405660
+Ontario,9 Occupations in manufacturing and utilities,Men,273785
+Ontario,9 Occupations in manufacturing and utilities,Women,131870
+Manitoba,0 Legislative and senior management occupations,Total,6705
+Manitoba,0 Legislative and senior management occupations,Men,4385
+Manitoba,0 Legislative and senior management occupations,Women,2320
+Manitoba,"1 Business, finance and administration occupations",Total,115275
+Manitoba,"1 Business, finance and administration occupations",Men,35445
+Manitoba,"1 Business, finance and administration occupations",Women,79830
+Manitoba,2 Natural and applied sciences and related occupations,Total,41015
+Manitoba,2 Natural and applied sciences and related occupations,Men,31450
+Manitoba,2 Natural and applied sciences and related occupations,Women,9565
+Manitoba,21301 Mechanical engineers,Total,1415
+Manitoba,21301 Mechanical engineers,Men,1300
+Manitoba,21301 Mechanical engineers,Women,120
+Manitoba,21310 Electrical and electronics engineers,Total,1085
+Manitoba,21310 Electrical and electronics engineers,Men,935
+Manitoba,21310 Electrical and electronics engineers,Women,150
+Manitoba,21311 Computer engineers (except software engineers and designers),Total,425
+Manitoba,21311 Computer engineers (except software engineers and designers),Men,400
+Manitoba,21311 Computer engineers (except software engineers and designers),Women,30
+Manitoba,3 Health occupations,Total,61660
+Manitoba,3 Health occupations,Men,13445
+Manitoba,3 Health occupations,Women,48215
+Manitoba,31301 Registered nurses and registered psychiatric nurses,Total,14325
+Manitoba,31301 Registered nurses and registered psychiatric nurses,Men,1630
+Manitoba,31301 Registered nurses and registered psychiatric nurses,Women,12695
+Manitoba,31302 Nurse practitioners,Total,240
+Manitoba,31302 Nurse practitioners,Men,35
+Manitoba,31302 Nurse practitioners,Women,205
+Manitoba,32101 Licensed practical nurses,Total,2430
+Manitoba,32101 Licensed practical nurses,Men,305
+Manitoba,32101 Licensed practical nurses,Women,2125
+Manitoba,"33102 Nurse aides, orderlies and patient service associates",Total,17730
+Manitoba,"33102 Nurse aides, orderlies and patient service associates",Men,3350
+Manitoba,"33102 Nurse aides, orderlies and patient service associates",Women,14380
+Manitoba,"4 Occupations in education, law and social, community and government services",Total,100315
+Manitoba,"4 Occupations in education, law and social, community and government services",Men,33095
+Manitoba,"4 Occupations in education, law and social, community and government services",Women,67220
+Manitoba,40040 Commissioned police officers and related occupations in public protection services,Total,45
+Manitoba,40040 Commissioned police officers and related occupations in public protection services,Men,40
+Manitoba,40040 Commissioned police officers and related occupations in public protection services,Women,0
+Manitoba,4131 Police investigators and probation officers,Total,435
+Manitoba,4131 Police investigators and probation officers,Men,215
+Manitoba,4131 Police investigators and probation officers,Women,215
+Manitoba,41310 Police investigators and other investigative occupations,Total,145
+Manitoba,41310 Police investigators and other investigative occupations,Men,125
+Manitoba,41310 Police investigators and other investigative occupations,Women,15
+Manitoba,42100 Police officers (except commissioned),Total,2805
+Manitoba,42100 Police officers (except commissioned),Men,2305
+Manitoba,42100 Police officers (except commissioned),Women,495
+Manitoba,42101 Firefighters,Total,1205
+Manitoba,42101 Firefighters,Men,1125
+Manitoba,42101 Firefighters,Women,80
+Manitoba,"5 Occupations in art, culture, recreation and sport",Total,17845
+Manitoba,"5 Occupations in art, culture, recreation and sport",Men,7875
+Manitoba,"5 Occupations in art, culture, recreation and sport",Women,9970
+Manitoba,6 Sales and service occupations,Total,179225
+Manitoba,6 Sales and service occupations,Men,78815
+Manitoba,6 Sales and service occupations,Women,100410
+Manitoba,"7 Trades, transport and equipment operators and related occupations",Total,134415
+Manitoba,"7 Trades, transport and equipment operators and related occupations",Men,124430
+Manitoba,"7 Trades, transport and equipment operators and related occupations",Women,9990
+Manitoba,"8 Natural resources, agriculture and related production occupations",Total,33805
+Manitoba,"8 Natural resources, agriculture and related production occupations",Men,26205
+Manitoba,"8 Natural resources, agriculture and related production occupations",Women,7600
+Manitoba,9 Occupations in manufacturing and utilities,Total,36865
+Manitoba,9 Occupations in manufacturing and utilities,Men,27030
+Manitoba,9 Occupations in manufacturing and utilities,Women,9835
+Saskatchewan,0 Legislative and senior management occupations,Total,5725
+Saskatchewan,0 Legislative and senior management occupations,Men,3360
+Saskatchewan,0 Legislative and senior management occupations,Women,2370
+Saskatchewan,"1 Business, finance and administration occupations",Total,89410
+Saskatchewan,"1 Business, finance and administration occupations",Men,24000
+Saskatchewan,"1 Business, finance and administration occupations",Women,65410
+Saskatchewan,2 Natural and applied sciences and related occupations,Total,32115
+Saskatchewan,2 Natural and applied sciences and related occupations,Men,24340
+Saskatchewan,2 Natural and applied sciences and related occupations,Women,7775
+Saskatchewan,21301 Mechanical engineers,Total,1015
+Saskatchewan,21301 Mechanical engineers,Men,910
+Saskatchewan,21301 Mechanical engineers,Women,105
+Saskatchewan,21310 Electrical and electronics engineers,Total,895
+Saskatchewan,21310 Electrical and electronics engineers,Men,750
+Saskatchewan,21310 Electrical and electronics engineers,Women,145
+Saskatchewan,21311 Computer engineers (except software engineers and designers),Total,255
+Saskatchewan,21311 Computer engineers (except software engineers and designers),Men,225
+Saskatchewan,21311 Computer engineers (except software engineers and designers),Women,25
+Saskatchewan,3 Health occupations,Total,53175
+Saskatchewan,3 Health occupations,Men,8960
+Saskatchewan,3 Health occupations,Women,44215
+Saskatchewan,31301 Registered nurses and registered psychiatric nurses,Total,13125
+Saskatchewan,31301 Registered nurses and registered psychiatric nurses,Men,1025
+Saskatchewan,31301 Registered nurses and registered psychiatric nurses,Women,12100
+Saskatchewan,31302 Nurse practitioners,Total,215
+Saskatchewan,31302 Nurse practitioners,Men,25
+Saskatchewan,31302 Nurse practitioners,Women,185
+Saskatchewan,32101 Licensed practical nurses,Total,2615
+Saskatchewan,32101 Licensed practical nurses,Men,170
+Saskatchewan,32101 Licensed practical nurses,Women,2450
+Saskatchewan,"33102 Nurse aides, orderlies and patient service associates",Total,14285
+Saskatchewan,"33102 Nurse aides, orderlies and patient service associates",Men,1715
+Saskatchewan,"33102 Nurse aides, orderlies and patient service associates",Women,12570
+Saskatchewan,"4 Occupations in education, law and social, community and government services",Total,77825
+Saskatchewan,"4 Occupations in education, law and social, community and government services",Men,24395
+Saskatchewan,"4 Occupations in education, law and social, community and government services",Women,53430
+Saskatchewan,40040 Commissioned police officers and related occupations in public protection services,Total,45
+Saskatchewan,40040 Commissioned police officers and related occupations in public protection services,Men,35
+Saskatchewan,40040 Commissioned police officers and related occupations in public protection services,Women,10
+Saskatchewan,4131 Police investigators and probation officers,Total,435
+Saskatchewan,4131 Police investigators and probation officers,Men,120
+Saskatchewan,4131 Police investigators and probation officers,Women,310
+Saskatchewan,41310 Police investigators and other investigative occupations,Total,70
+Saskatchewan,41310 Police investigators and other investigative occupations,Men,40
+Saskatchewan,41310 Police investigators and other investigative occupations,Women,25
+Saskatchewan,42100 Police officers (except commissioned),Total,2675
+Saskatchewan,42100 Police officers (except commissioned),Men,1950
+Saskatchewan,42100 Police officers (except commissioned),Women,725
+Saskatchewan,42101 Firefighters,Total,1275
+Saskatchewan,42101 Firefighters,Men,1220
+Saskatchewan,42101 Firefighters,Women,55
+Saskatchewan,"5 Occupations in art, culture, recreation and sport",Total,13075
+Saskatchewan,"5 Occupations in art, culture, recreation and sport",Men,4935
+Saskatchewan,"5 Occupations in art, culture, recreation and sport",Women,8140
+Saskatchewan,6 Sales and service occupations,Total,149310
+Saskatchewan,6 Sales and service occupations,Men,63475
+Saskatchewan,6 Sales and service occupations,Women,85835
+Saskatchewan,"7 Trades, transport and equipment operators and related occupations",Total,114350
+Saskatchewan,"7 Trades, transport and equipment operators and related occupations",Men,104545
+Saskatchewan,"7 Trades, transport and equipment operators and related occupations",Women,9805
+Saskatchewan,"8 Natural resources, agriculture and related production occupations",Total,60220
+Saskatchewan,"8 Natural resources, agriculture and related production occupations",Men,46425
+Saskatchewan,"8 Natural resources, agriculture and related production occupations",Women,13795
+Saskatchewan,9 Occupations in manufacturing and utilities,Total,20580
+Saskatchewan,9 Occupations in manufacturing and utilities,Men,16955
+Saskatchewan,9 Occupations in manufacturing and utilities,Women,3630
+Alberta,0 Legislative and senior management occupations,Total,24445
+Alberta,0 Legislative and senior management occupations,Men,17320
+Alberta,0 Legislative and senior management occupations,Women,7125
+Alberta,"1 Business, finance and administration occupations",Total,403300
+Alberta,"1 Business, finance and administration occupations",Men,117240
+Alberta,"1 Business, finance and administration occupations",Women,286065
+Alberta,2 Natural and applied sciences and related occupations,Total,192305
+Alberta,2 Natural and applied sciences and related occupations,Men,147700
+Alberta,2 Natural and applied sciences and related occupations,Women,44610
+Alberta,21301 Mechanical engineers,Total,8685
+Alberta,21301 Mechanical engineers,Men,7650
+Alberta,21301 Mechanical engineers,Women,1040
+Alberta,21310 Electrical and electronics engineers,Total,7055
+Alberta,21310 Electrical and electronics engineers,Men,6110
+Alberta,21310 Electrical and electronics engineers,Women,945
+Alberta,21311 Computer engineers (except software engineers and designers),Total,2090
+Alberta,21311 Computer engineers (except software engineers and designers),Men,1800
+Alberta,21311 Computer engineers (except software engineers and designers),Women,290
+Alberta,3 Health occupations,Total,193895
+Alberta,3 Health occupations,Men,36120
+Alberta,3 Health occupations,Women,157780
+Alberta,31301 Registered nurses and registered psychiatric nurses,Total,43875
+Alberta,31301 Registered nurses and registered psychiatric nurses,Men,3540
+Alberta,31301 Registered nurses and registered psychiatric nurses,Women,40335
+Alberta,31302 Nurse practitioners,Total,605
+Alberta,31302 Nurse practitioners,Men,65
+Alberta,31302 Nurse practitioners,Women,535
+Alberta,32101 Licensed practical nurses,Total,9805
+Alberta,32101 Licensed practical nurses,Men,820
+Alberta,32101 Licensed practical nurses,Women,8985
+Alberta,"33102 Nurse aides, orderlies and patient service associates",Total,39705
+Alberta,"33102 Nurse aides, orderlies and patient service associates",Men,5305
+Alberta,"33102 Nurse aides, orderlies and patient service associates",Women,34400
+Alberta,"4 Occupations in education, law and social, community and government services",Total,267785
+Alberta,"4 Occupations in education, law and social, community and government services",Men,88015
+Alberta,"4 Occupations in education, law and social, community and government services",Women,179770
+Alberta,40040 Commissioned police officers and related occupations in public protection services,Total,120
+Alberta,40040 Commissioned police officers and related occupations in public protection services,Men,60
+Alberta,40040 Commissioned police officers and related occupations in public protection services,Women,55
+Alberta,4131 Police investigators and probation officers,Total,1050
+Alberta,4131 Police investigators and probation officers,Men,500
+Alberta,4131 Police investigators and probation officers,Women,550
+Alberta,41310 Police investigators and other investigative occupations,Total,395
+Alberta,41310 Police investigators and other investigative occupations,Men,310
+Alberta,41310 Police investigators and other investigative occupations,Women,80
+Alberta,42100 Police officers (except commissioned),Total,9790
+Alberta,42100 Police officers (except commissioned),Men,7685
+Alberta,42100 Police officers (except commissioned),Women,2110
+Alberta,42101 Firefighters,Total,5050
+Alberta,42101 Firefighters,Men,4755
+Alberta,42101 Firefighters,Women,295
+Alberta,"5 Occupations in art, culture, recreation and sport",Total,59950
+Alberta,"5 Occupations in art, culture, recreation and sport",Men,24240
+Alberta,"5 Occupations in art, culture, recreation and sport",Women,35710
+Alberta,6 Sales and service occupations,Total,601000
+Alberta,6 Sales and service occupations,Men,255480
+Alberta,6 Sales and service occupations,Women,345515
+Alberta,"7 Trades, transport and equipment operators and related occupations",Total,477810
+Alberta,"7 Trades, transport and equipment operators and related occupations",Men,430740
+Alberta,"7 Trades, transport and equipment operators and related occupations",Women,47060
+Alberta,"8 Natural resources, agriculture and related production occupations",Total,111490
+Alberta,"8 Natural resources, agriculture and related production occupations",Men,86110
+Alberta,"8 Natural resources, agriculture and related production occupations",Women,25375
+Alberta,9 Occupations in manufacturing and utilities,Total,90130
+Alberta,9 Occupations in manufacturing and utilities,Men,70930
+Alberta,9 Occupations in manufacturing and utilities,Women,19200
+British Columbia,0 Legislative and senior management occupations,Total,34020
+British Columbia,0 Legislative and senior management occupations,Men,23640
+British Columbia,0 Legislative and senior management occupations,Women,10380
+British Columbia,"1 Business, finance and administration occupations",Total,484985
+British Columbia,"1 Business, finance and administration occupations",Men,148070
+British Columbia,"1 Business, finance and administration occupations",Women,336915
+British Columbia,2 Natural and applied sciences and related occupations,Total,220820
+British Columbia,2 Natural and applied sciences and related occupations,Men,167105
+British Columbia,2 Natural and applied sciences and related occupations,Women,53710
+British Columbia,21301 Mechanical engineers,Total,6420
+British Columbia,21301 Mechanical engineers,Men,5650
+British Columbia,21301 Mechanical engineers,Women,770
+British Columbia,21310 Electrical and electronics engineers,Total,6710
+British Columbia,21310 Electrical and electronics engineers,Men,5950
+British Columbia,21310 Electrical and electronics engineers,Women,765
+British Columbia,21311 Computer engineers (except software engineers and designers),Total,2655
+British Columbia,21311 Computer engineers (except software engineers and designers),Men,2340
+British Columbia,21311 Computer engineers (except software engineers and designers),Women,310
+British Columbia,3 Health occupations,Total,212305
+British Columbia,3 Health occupations,Men,46305
+British Columbia,3 Health occupations,Women,166000
+British Columbia,31301 Registered nurses and registered psychiatric nurses,Total,47500
+British Columbia,31301 Registered nurses and registered psychiatric nurses,Men,4825
+British Columbia,31301 Registered nurses and registered psychiatric nurses,Women,42680
+British Columbia,31302 Nurse practitioners,Total,685
+British Columbia,31302 Nurse practitioners,Men,50
+British Columbia,31302 Nurse practitioners,Women,640
+British Columbia,32101 Licensed practical nurses,Total,8485
+British Columbia,32101 Licensed practical nurses,Men,1025
+British Columbia,32101 Licensed practical nurses,Women,7460
+British Columbia,"33102 Nurse aides, orderlies and patient service associates",Total,44420
+British Columbia,"33102 Nurse aides, orderlies and patient service associates",Men,6425
+British Columbia,"33102 Nurse aides, orderlies and patient service associates",Women,37995
+British Columbia,"4 Occupations in education, law and social, community and government services",Total,336840
+British Columbia,"4 Occupations in education, law and social, community and government services",Men,111625
+British Columbia,"4 Occupations in education, law and social, community and government services",Women,225210
+British Columbia,40040 Commissioned police officers and related occupations in public protection services,Total,180
+British Columbia,40040 Commissioned police officers and related occupations in public protection services,Men,105
+British Columbia,40040 Commissioned police officers and related occupations in public protection services,Women,75
+British Columbia,4131 Police investigators and probation officers,Total,1490
+British Columbia,4131 Police investigators and probation officers,Men,605
+British Columbia,4131 Police investigators and probation officers,Women,885
+British Columbia,41310 Police investigators and other investigative occupations,Total,540
+British Columbia,41310 Police investigators and other investigative occupations,Men,300
+British Columbia,41310 Police investigators and other investigative occupations,Women,245
+British Columbia,42100 Police officers (except commissioned),Total,10680
+British Columbia,42100 Police officers (except commissioned),Men,8075
+British Columbia,42100 Police officers (except commissioned),Women,2605
+British Columbia,42101 Firefighters,Total,5000
+British Columbia,42101 Firefighters,Men,4715
+British Columbia,42101 Firefighters,Women,280
+British Columbia,"5 Occupations in art, culture, recreation and sport",Total,125490
+British Columbia,"5 Occupations in art, culture, recreation and sport",Men,58695
+British Columbia,"5 Occupations in art, culture, recreation and sport",Women,66795
+British Columbia,6 Sales and service occupations,Total,750540
+British Columbia,6 Sales and service occupations,Men,326530
+British Columbia,6 Sales and service occupations,Women,424010
+British Columbia,"7 Trades, transport and equipment operators and related occupations",Total,511120
+British Columbia,"7 Trades, transport and equipment operators and related occupations",Men,462275
+British Columbia,"7 Trades, transport and equipment operators and related occupations",Women,48845
+British Columbia,"8 Natural resources, agriculture and related production occupations",Total,83150
+British Columbia,"8 Natural resources, agriculture and related production occupations",Men,59185
+British Columbia,"8 Natural resources, agriculture and related production occupations",Women,23965
+British Columbia,9 Occupations in manufacturing and utilities,Total,96625
+British Columbia,9 Occupations in manufacturing and utilities,Men,68625
+British Columbia,9 Occupations in manufacturing and utilities,Women,28000
+Yukon,0 Legislative and senior management occupations,Total,460
+Yukon,0 Legislative and senior management occupations,Men,220
+Yukon,0 Legislative and senior management occupations,Women,240
+Yukon,"1 Business, finance and administration occupations",Total,4535
+Yukon,"1 Business, finance and administration occupations",Men,1065
+Yukon,"1 Business, finance and administration occupations",Women,3470
+Yukon,2 Natural and applied sciences and related occupations,Total,1725
+Yukon,2 Natural and applied sciences and related occupations,Men,1200
+Yukon,2 Natural and applied sciences and related occupations,Women,525
+Yukon,21301 Mechanical engineers,Total,25
+Yukon,21301 Mechanical engineers,Men,15
+Yukon,21301 Mechanical engineers,Women,10
+Yukon,21310 Electrical and electronics engineers,Total,20
+Yukon,21310 Electrical and electronics engineers,Men,20
+Yukon,21310 Electrical and electronics engineers,Women,0
+Yukon,21311 Computer engineers (except software engineers and designers),Total,10
+Yukon,21311 Computer engineers (except software engineers and designers),Men,10
+Yukon,21311 Computer engineers (except software engineers and designers),Women,0
+Yukon,3 Health occupations,Total,1605
+Yukon,3 Health occupations,Men,295
+Yukon,3 Health occupations,Women,1310
+Yukon,31301 Registered nurses and registered psychiatric nurses,Total,410
+Yukon,31301 Registered nurses and registered psychiatric nurses,Men,35
+Yukon,31301 Registered nurses and registered psychiatric nurses,Women,380
+Yukon,31302 Nurse practitioners,Total,0
+Yukon,31302 Nurse practitioners,Men,0
+Yukon,31302 Nurse practitioners,Women,0
+Yukon,32101 Licensed practical nurses,Total,115
+Yukon,32101 Licensed practical nurses,Men,0
+Yukon,32101 Licensed practical nurses,Women,115
+Yukon,"33102 Nurse aides, orderlies and patient service associates",Total,225
+Yukon,"33102 Nurse aides, orderlies and patient service associates",Men,60
+Yukon,"33102 Nurse aides, orderlies and patient service associates",Women,165
+Yukon,"4 Occupations in education, law and social, community and government services",Total,4810
+Yukon,"4 Occupations in education, law and social, community and government services",Men,1585
+Yukon,"4 Occupations in education, law and social, community and government services",Women,3225
+Yukon,40040 Commissioned police officers and related occupations in public protection services,Total,0
+Yukon,40040 Commissioned police officers and related occupations in public protection services,Men,0
+Yukon,40040 Commissioned police officers and related occupations in public protection services,Women,0
+Yukon,4131 Police investigators and probation officers,Total,40
+Yukon,4131 Police investigators and probation officers,Men,20
+Yukon,4131 Police investigators and probation officers,Women,15
+Yukon,41310 Police investigators and other investigative occupations,Total,15
+Yukon,41310 Police investigators and other investigative occupations,Men,10
+Yukon,41310 Police investigators and other investigative occupations,Women,0
+Yukon,42100 Police officers (except commissioned),Total,155
+Yukon,42100 Police officers (except commissioned),Men,120
+Yukon,42100 Police officers (except commissioned),Women,35
+Yukon,42101 Firefighters,Total,65
+Yukon,42101 Firefighters,Men,65
+Yukon,42101 Firefighters,Women,0
+Yukon,"5 Occupations in art, culture, recreation and sport",Total,925
+Yukon,"5 Occupations in art, culture, recreation and sport",Men,415
+Yukon,"5 Occupations in art, culture, recreation and sport",Women,510
+Yukon,6 Sales and service occupations,Total,5335
+Yukon,6 Sales and service occupations,Men,2440
+Yukon,6 Sales and service occupations,Women,2895
+Yukon,"7 Trades, transport and equipment operators and related occupations",Total,4805
+Yukon,"7 Trades, transport and equipment operators and related occupations",Men,4355
+Yukon,"7 Trades, transport and equipment operators and related occupations",Women,445
+Yukon,"8 Natural resources, agriculture and related production occupations",Total,860
+Yukon,"8 Natural resources, agriculture and related production occupations",Men,640
+Yukon,"8 Natural resources, agriculture and related production occupations",Women,230
+Yukon,9 Occupations in manufacturing and utilities,Total,450
+Yukon,9 Occupations in manufacturing and utilities,Men,355
+Yukon,9 Occupations in manufacturing and utilities,Women,90
+Northwest Territories,0 Legislative and senior management occupations,Total,435
+Northwest Territories,0 Legislative and senior management occupations,Men,245
+Northwest Territories,0 Legislative and senior management occupations,Women,185
+Northwest Territories,"1 Business, finance and administration occupations",Total,4350
+Northwest Territories,"1 Business, finance and administration occupations",Men,1105
+Northwest Territories,"1 Business, finance and administration occupations",Women,3240
+Northwest Territories,2 Natural and applied sciences and related occupations,Total,1545
+Northwest Territories,2 Natural and applied sciences and related occupations,Men,1100
+Northwest Territories,2 Natural and applied sciences and related occupations,Women,445
+Northwest Territories,21301 Mechanical engineers,Total,60
+Northwest Territories,21301 Mechanical engineers,Men,55
+Northwest Territories,21301 Mechanical engineers,Women,0
+Northwest Territories,21310 Electrical and electronics engineers,Total,25
+Northwest Territories,21310 Electrical and electronics engineers,Men,15
+Northwest Territories,21310 Electrical and electronics engineers,Women,0
+Northwest Territories,21311 Computer engineers (except software engineers and designers),Total,0
+Northwest Territories,21311 Computer engineers (except software engineers and designers),Men,0
+Northwest Territories,21311 Computer engineers (except software engineers and designers),Women,0
+Northwest Territories,3 Health occupations,Total,1390
+Northwest Territories,3 Health occupations,Men,290
+Northwest Territories,3 Health occupations,Women,1100
+Northwest Territories,31301 Registered nurses and registered psychiatric nurses,Total,430
+Northwest Territories,31301 Registered nurses and registered psychiatric nurses,Men,45
+Northwest Territories,31301 Registered nurses and registered psychiatric nurses,Women,380
+Northwest Territories,31302 Nurse practitioners,Total,10
+Northwest Territories,31302 Nurse practitioners,Men,0
+Northwest Territories,31302 Nurse practitioners,Women,15
+Northwest Territories,32101 Licensed practical nurses,Total,40
+Northwest Territories,32101 Licensed practical nurses,Men,10
+Northwest Territories,32101 Licensed practical nurses,Women,35
+Northwest Territories,"33102 Nurse aides, orderlies and patient service associates",Total,275
+Northwest Territories,"33102 Nurse aides, orderlies and patient service associates",Men,45
+Northwest Territories,"33102 Nurse aides, orderlies and patient service associates",Women,225
+Northwest Territories,"4 Occupations in education, law and social, community and government services",Total,5040
+Northwest Territories,"4 Occupations in education, law and social, community and government services",Men,1925
+Northwest Territories,"4 Occupations in education, law and social, community and government services",Women,3115
+Northwest Territories,40040 Commissioned police officers and related occupations in public protection services,Total,0
+Northwest Territories,40040 Commissioned police officers and related occupations in public protection services,Men,0
+Northwest Territories,40040 Commissioned police officers and related occupations in public protection services,Women,0
+Northwest Territories,4131 Police investigators and probation officers,Total,60
+Northwest Territories,4131 Police investigators and probation officers,Men,30
+Northwest Territories,4131 Police investigators and probation officers,Women,30
+Northwest Territories,41310 Police investigators and other investigative occupations,Total,20
+Northwest Territories,41310 Police investigators and other investigative occupations,Men,20
+Northwest Territories,41310 Police investigators and other investigative occupations,Women,0
+Northwest Territories,42100 Police officers (except commissioned),Total,225
+Northwest Territories,42100 Police officers (except commissioned),Men,155
+Northwest Territories,42100 Police officers (except commissioned),Women,70
+Northwest Territories,42101 Firefighters,Total,70
+Northwest Territories,42101 Firefighters,Men,65
+Northwest Territories,42101 Firefighters,Women,0
+Northwest Territories,"5 Occupations in art, culture, recreation and sport",Total,605
+Northwest Territories,"5 Occupations in art, culture, recreation and sport",Men,250
+Northwest Territories,"5 Occupations in art, culture, recreation and sport",Women,360
+Northwest Territories,6 Sales and service occupations,Total,5055
+Northwest Territories,6 Sales and service occupations,Men,2280
+Northwest Territories,6 Sales and service occupations,Women,2780
+Northwest Territories,"7 Trades, transport and equipment operators and related occupations",Total,4580
+Northwest Territories,"7 Trades, transport and equipment operators and related occupations",Men,4235
+Northwest Territories,"7 Trades, transport and equipment operators and related occupations",Women,350
+Northwest Territories,"8 Natural resources, agriculture and related production occupations",Total,685
+Northwest Territories,"8 Natural resources, agriculture and related production occupations",Men,590
+Northwest Territories,"8 Natural resources, agriculture and related production occupations",Women,95
+Northwest Territories,9 Occupations in manufacturing and utilities,Total,460
+Northwest Territories,9 Occupations in manufacturing and utilities,Men,390
+Northwest Territories,9 Occupations in manufacturing and utilities,Women,75
+Nunavut,0 Legislative and senior management occupations,Total,280
+Nunavut,0 Legislative and senior management occupations,Men,160
+Nunavut,0 Legislative and senior management occupations,Women,115
+Nunavut,"1 Business, finance and administration occupations",Total,2605
+Nunavut,"1 Business, finance and administration occupations",Men,680
+Nunavut,"1 Business, finance and administration occupations",Women,1935
+Nunavut,2 Natural and applied sciences and related occupations,Total,490
+Nunavut,2 Natural and applied sciences and related occupations,Men,375
+Nunavut,2 Natural and applied sciences and related occupations,Women,115
+Nunavut,21301 Mechanical engineers,Total,10
+Nunavut,21301 Mechanical engineers,Men,10
+Nunavut,21301 Mechanical engineers,Women,0
+Nunavut,21310 Electrical and electronics engineers,Total,0
+Nunavut,21310 Electrical and electronics engineers,Men,0
+Nunavut,21310 Electrical and electronics engineers,Women,0
+Nunavut,21311 Computer engineers (except software engineers and designers),Total,10
+Nunavut,21311 Computer engineers (except software engineers and designers),Men,10
+Nunavut,21311 Computer engineers (except software engineers and designers),Women,0
+Nunavut,3 Health occupations,Total,585
+Nunavut,3 Health occupations,Men,90
+Nunavut,3 Health occupations,Women,495
+Nunavut,31301 Registered nurses and registered psychiatric nurses,Total,160
+Nunavut,31301 Registered nurses and registered psychiatric nurses,Men,25
+Nunavut,31301 Registered nurses and registered psychiatric nurses,Women,135
+Nunavut,31302 Nurse practitioners,Total,0
+Nunavut,31302 Nurse practitioners,Men,0
+Nunavut,31302 Nurse practitioners,Women,0
+Nunavut,32101 Licensed practical nurses,Total,15
+Nunavut,32101 Licensed practical nurses,Men,0
+Nunavut,32101 Licensed practical nurses,Women,10
+Nunavut,"33102 Nurse aides, orderlies and patient service associates",Total,225
+Nunavut,"33102 Nurse aides, orderlies and patient service associates",Men,20
+Nunavut,"33102 Nurse aides, orderlies and patient service associates",Women,205
+Nunavut,"4 Occupations in education, law and social, community and government services",Total,3240
+Nunavut,"4 Occupations in education, law and social, community and government services",Men,1040
+Nunavut,"4 Occupations in education, law and social, community and government services",Women,2205
+Nunavut,40040 Commissioned police officers and related occupations in public protection services,Total,0
+Nunavut,40040 Commissioned police officers and related occupations in public protection services,Men,0
+Nunavut,40040 Commissioned police officers and related occupations in public protection services,Women,0
+Nunavut,4131 Police investigators and probation officers,Total,10
+Nunavut,4131 Police investigators and probation officers,Men,0
+Nunavut,4131 Police investigators and probation officers,Women,10
+Nunavut,41310 Police investigators and other investigative occupations,Total,10
+Nunavut,41310 Police investigators and other investigative occupations,Men,0
+Nunavut,41310 Police investigators and other investigative occupations,Women,0
+Nunavut,42100 Police officers (except commissioned),Total,145
+Nunavut,42100 Police officers (except commissioned),Men,120
+Nunavut,42100 Police officers (except commissioned),Women,30
+Nunavut,42101 Firefighters,Total,35
+Nunavut,42101 Firefighters,Men,25
+Nunavut,42101 Firefighters,Women,0
+Nunavut,"5 Occupations in art, culture, recreation and sport",Total,530
+Nunavut,"5 Occupations in art, culture, recreation and sport",Men,235
+Nunavut,"5 Occupations in art, culture, recreation and sport",Women,295
+Nunavut,6 Sales and service occupations,Total,3825
+Nunavut,6 Sales and service occupations,Men,1710
+Nunavut,6 Sales and service occupations,Women,2120
+Nunavut,"7 Trades, transport and equipment operators and related occupations",Total,3035
+Nunavut,"7 Trades, transport and equipment operators and related occupations",Men,2820
+Nunavut,"7 Trades, transport and equipment operators and related occupations",Women,215
+Nunavut,"8 Natural resources, agriculture and related production occupations",Total,340
+Nunavut,"8 Natural resources, agriculture and related production occupations",Men,320
+Nunavut,"8 Natural resources, agriculture and related production occupations",Women,25
+Nunavut,9 Occupations in manufacturing and utilities,Total,245
+Nunavut,9 Occupations in manufacturing and utilities,Men,200
+Nunavut,9 Occupations in manufacturing and utilities,Women,40
